@@ -1,0 +1,5 @@
+print("+-+-+THE STORY OF CLEOPATRA AND MARK ANTONY+-+-+\n")
+print("After the assassination of Julius Cesaer, Cleopatra formed an alliance with one of his most respected generals, Mark Antony.\nThe two would form an extremely powerful alliance, in hopes to secure a better future for both Egypt and Rome.\nHowever, this alliance did face major scrutiny from the higher ups of Roman politics.")
+print("Cleopatra and Mark fell in love during the time they spent together, and their love for eachother may have led to their ultimate demise.\nIn 31 BC, the two would go to war with future Roman Emperor Augustus Octavian. In the Battle of Actium, Octavian's forces would take a key victory by overtaking most of Cleopatra and Mark Antony's fleets at sea.")
+print("Shortly after the defeat Octavian would go on to win the war. \nCleopatra would end up sadly taking her own life in fear of being captured. \nHer reign as one of the greatest Pharoah's in Egyptian history wouldn't be tarnished. Shortly after, Mark Antony as well would end is own life.")
+print("\n~+~+~END OF STORY~+~+~")
